@@ -1,2 +1,2 @@
-# electron
-Curso de Electron
+# python
+Curso de Python
